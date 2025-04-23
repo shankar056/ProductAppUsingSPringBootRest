@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductCrudOperationsUsingSpringJpaApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Day 1 Changes");
 		SpringApplication.run(ProductCrudOperationsUsingSpringJpaApplication.class, args);
 		
 	}
